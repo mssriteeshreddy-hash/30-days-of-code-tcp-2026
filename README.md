@@ -7,3 +7,7 @@ THIS IS M SIVA SAI RITTESH REDDY , CSE ,25115065
 <img width="1300" height="700" alt="Image" src="https://github.com/user-attachments/assets/0e7c6996-f126-4642-88ca-d9da87d43c9a" />
 <img width="1431" height="276" alt="Image" src="https://github.com/user-attachments/assets/ba3f017e-b128-41eb-b85a-f98d756748b1" />
 <img width="654" height="850" alt="Image" src="https://github.com/user-attachments/assets/1e732fcd-1d56-4ae4-827d-39053ff69887" />
+<img width="920" height="909" alt="Image" src="https://github.com/user-attachments/assets/d4403d4e-79c7-4ee6-bfb2-a11c36e8473a" />
+<img width="550" height="846" alt="Image" src="https://github.com/user-attachments/assets/d9360d15-b65e-4025-a3c5-4f5daf558a90" />
+<img width="495" height="850" alt="Image" src="https://github.com/user-attachments/assets/9fca8362-4061-4545-98c2-612a838145b5" />
+<img width="742" height="273" alt="Image" src="https://github.com/user-attachments/assets/a4ee88d7-1a06-4392-8448-4f2335b75d8a" />
